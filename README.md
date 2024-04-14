@@ -1,2 +1,2 @@
 # Linux-Lab
-Linux Ubuntu on Virtualbox
++ Installed on VirtualBox using latest Linux Ubuntu ISO
